@@ -2,4 +2,4 @@
 
 Patching for YAML documents
 
-Check out [yaml-diff](github.com/adius/yaml-diff) for the related diff functionality.
+Check out [yaml-diff](https://github.com/adius/yaml-diff) for the related diff functionality.
