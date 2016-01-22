@@ -1,6 +1,6 @@
 {
   "name": "yaml-patch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Patching for YAML documents",
   "main": "build/index.js",
   "directories": {
