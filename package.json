@@ -14,9 +14,12 @@
     "type": "git",
     "url": "git+https://github.com/adius/yamldiffpatch.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "yaml",
+    "diff"
+  ],
+  "author": "Adrian Sieber",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/adius/yamldiffpatch/issues"
   },
