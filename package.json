@@ -2,13 +2,14 @@
   "name": "yaml-diff",
   "version": "0.1.0",
   "description": "Diffing for YAML documents",
-  "main": "source/index.js",
+  "main": "build/index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
+    "build": "babel source --out-dir build",
     "test": "babel-node test/main.js",
-    "prepublish": "npm run test"
+    "prepublish": "npm run test && npm run build"
   },
   "repository": {
     "type": "git",
