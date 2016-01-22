@@ -1,0 +1,29 @@
+{
+  "name": "yaml-diff",
+  "version": "0.0.0",
+  "description": "Diffing for YAML documents",
+  "main": "source/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "babel-node test/main.js",
+    "prepublish": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adius/yamldiffpatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adius/yamldiffpatch/issues"
+  },
+  "homepage": "https://github.com/adius/yamldiffpatch#readme",
+  "dependencies": {
+    "is-equal": "^1.4.2",
+    "is-plain-object": "^2.0.1",
+    "js-yaml": "^3.5.2"
+  }
+}
