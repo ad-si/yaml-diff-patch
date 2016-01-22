@@ -1,0 +1,29 @@
+source:
+  title: Butter
+  tags:
+    - groceries
+    - food
+  purchaseDate: 2015-10-29
+  nutrition:
+    fat: 10%
+    energy: 1200 kj
+
+
+target:
+  title: Buttermilk
+  tags:
+    - groceries
+    - drink
+  purchaseDate: 2015-10-30
+  nutrition:
+    fat: 5%
+    energy: 800 kj
+
+
+diff:
+  title: Buttermilk
+  tags: [,drink]
+  purchaseDate: 2015-10-30
+  nutrition:
+    fat: 5%
+    energy: 800 kj
