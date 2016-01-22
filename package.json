@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adius/yamldiffpatch.git"
+    "url": "git+https://github.com/adius/yaml-diff.git"
   },
   "keywords": [
     "yaml",
@@ -22,9 +22,9 @@
   "author": "Adrian Sieber",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adius/yamldiffpatch/issues"
+    "url": "https://github.com/adius/yaml-diff/issues"
   },
-  "homepage": "https://github.com/adius/yamldiffpatch#readme",
+  "homepage": "https://github.com/adius/yaml-diff#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.3.13",
     "is-equal": "^1.4.2",
