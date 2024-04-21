@@ -1,5 +1,3 @@
-# YAML Diff
+# YAML Diff Patch
 
-Diffing for YAML documents
-
-Check out [yaml-patch](https://github.com/adius/yaml-patch) for the related patch functionality.
+Diffing and patching for YAML documents.
